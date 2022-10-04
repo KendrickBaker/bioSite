@@ -5,3 +5,35 @@ h1{
 body{
     background-color: #FEFBF6;
 }
+
+.Portrait{
+    border: solid;
+    border-radius: 15px;
+    border-radius: #A6D1E6;
+    padding: 15px;
+}
+
+
+
+#navbar{
+    overflow: hidden;
+    background-color: #7F5283;
+    border-bottom: 15px;
+    border-bottom-color: red;
+
+
+}
+
+#navbar a{
+    float:center;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px ;
+    text-decoration: none;
+}
+
+#navbar:hover{
+    background-color: #3D3C42;
+    
+}
