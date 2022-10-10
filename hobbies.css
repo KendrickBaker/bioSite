@@ -55,3 +55,33 @@ figure{
     background-color: #3D3C42;
     
 }
+
+footer{ 
+    background-color: #7F5283;
+    position: fixed;
+    bottom:0;
+    left: 0;
+    width: 100%;
+}
+
+footer p{
+    color: white; 
+    font-weight: 400;
+    float: right;
+    padding-right: 10px;
+    font-style: italic;
+}
+
+footer a{
+    text-decoration: none;
+    color: white; 
+    text-align: right;
+}
+
+footer a:hover{
+    text-decoration: underline;
+}
+
+.copyright{
+    text-align: left;
+}
